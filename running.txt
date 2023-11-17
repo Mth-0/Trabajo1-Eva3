@@ -1,0 +1,8 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED      STATUS                    PORTS                                       NAMES
+1620fe01c507   28297475b041   "/bin/sh -c 'python3…"   5 days ago   Exited (255) 4 days ago   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+CONTAINER ID   IMAGE          COMMAND                  CREATED      STATUS                    PORTS                                       NAMES
+1620fe01c507   28297475b041   "/bin/sh -c 'python3…"   5 days ago   Exited (255) 4 days ago   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+CONTAINER ID   IMAGE          COMMAND                  CREATED      STATUS                    PORTS                                       NAMES
+1620fe01c507   28297475b041   "/bin/sh -c 'python3…"   5 days ago   Exited (255) 4 days ago   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+CONTAINER ID   IMAGE          COMMAND                  CREATED      STATUS                    PORTS                                       NAMES
+1620fe01c507   28297475b041   "/bin/sh -c 'python3…"   5 days ago   Exited (255) 4 days ago   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
